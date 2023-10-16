@@ -1,3 +1,4 @@
+![Image Alt Text]()
 # GAF - Get All URLs and Resources
 
 GAF (Get All URLs and Resources) is a Python tool that enables you to analyze a web page by tracking and listing the resources (e.g., images, scripts, styles) found on the page and the domains from which they are loaded.
