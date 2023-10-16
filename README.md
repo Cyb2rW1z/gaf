@@ -11,11 +11,13 @@ GAF (Get All URLs and Resources) is a Python tool that enables you to analyze a 
    pip install requests
    pip install beautifulsoup4
 
-Run the script using the following command: 
+Run the script using the following command:
+```
 python3 gaf.py -u <URL> -heads "Header1=Value1,Header2=Value2"
-    Replace gaf.py with the name of the Python script.
-    Replace <URL> with the URL of the web page you want to analyze.
-    You can include custom headers as a comma-separated list in the format "Header=Value".
+```
+Replace gaf.py with the name of the Python script.
+Replace <URL> with the URL of the web page you want to analyze.
+You can include custom headers as a comma-separated list in the format "Header=Value".
 
 ## Example
 ```
