@@ -1,8 +1,8 @@
 ![GAF](https://raw.githubusercontent.com/Cyb2rW1z/gaf/main/webfuwevfuwefbkaebfihaefjqbefqvfe.png)
 
-# GAF - Get All URLs and Resources
+# GAF - Get All FILEs and Resources
 
-GAF (Get All URLs and Resources) is a Python tool that enables you to analyze a web page by tracking and listing the resources (e.g., images, scripts, styles) found on the page and the domains from which they are loaded.
+GAF (Get All FILEs and Resources) is a Python tool that enables you to analyze a web page by tracking and listing the resources (e.g., images, scripts, styles) found on the page and the domains from which they are loaded.
 
 ## Usage
 1. Ensure you have Python installed on your system.
