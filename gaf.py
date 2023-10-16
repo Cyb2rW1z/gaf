@@ -9,6 +9,10 @@ def track_resources(url, headers=None):
         if response.status_code == 200:
             print(f"Request to {url} was successful!")
 
+            print("Response Headers:")
+            for key, value in response.headers.items():
+                print(f"{key}: {value}")
+
             soup = BeautifulSoup(response.text, 'html.parser')
 
             for tag in soup.find_all(['img', 'script', 'link']):
