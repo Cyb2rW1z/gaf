@@ -21,5 +21,5 @@ You can include custom headers as a comma-separated list in the format "Header=V
 
 ## Example
 ```
-python gaf.py -u https://example.com -heads "User-Agent=my-user-agent,Accept-Language=en-US"
+python3 gaf.py -u https://example.com -heads "User-Agent=my-user-agent,Accept-Language=en-US"
 ```
