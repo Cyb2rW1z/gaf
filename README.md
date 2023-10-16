@@ -19,8 +19,4 @@ python3 gaf.py -u <URL> -heads "Header1=Value1,Header2=Value2"
 
 ## Example
 
-```bash
-
 python gaf.py -u https://example.com -heads "User-Agent=my-user-agent,Accept-Language=en-US"
-
-```
